@@ -1,5 +1,5 @@
 
-<img  src="/Hey There!, I am Noman.png" alt="" />
+<img width="full" src="/Hey There!, I am Noman.png" alt="" />
 
 <h3>Current stats</h3>
 <br>
