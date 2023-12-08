@@ -7,6 +7,17 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MIRNOMAN&theme=tokyonight)](https://git.io/streak-stats)
 
 
+<h3>Current Overview</h3>
+ 
+ <h6>
+ 
+ - I'am learning - Learning programming through Programming Hero
+ - I'm exploring - Exploring backend programming with Next.js
+- I'm looking - Actively seeking collaborators for an open-source project
+ 
+ 
+ </h6>
+
 <h3>Reach me out</h3>
 
 <p align='center'>
@@ -48,13 +59,4 @@
 <br/>
 
 
-<h3>Current Overview</h3>
- 
- <h6>
- 
- - I'am learning - Learning programming through Programming Hero
- - I'm exploring - Exploring backend programming with Next.js
-- I'm looking - Actively seeking collaborators for an open-source project
- 
- 
- </h6>
+
