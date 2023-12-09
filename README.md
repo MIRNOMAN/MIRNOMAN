@@ -1,5 +1,5 @@
 
-<div width="1000" align='center'>
+<div width="1000px" align='center'>
  <img width="full" align='center' src="/Hey There!, I am Noman.png" alt="" />
 </div>
 
