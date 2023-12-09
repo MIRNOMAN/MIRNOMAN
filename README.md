@@ -68,4 +68,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue)    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIRNOMAN&theme=vue)
