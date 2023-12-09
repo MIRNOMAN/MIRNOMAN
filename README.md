@@ -4,7 +4,7 @@
 <h3>Current stats</h3>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MIRNOMAN&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MIRNOMAN&theme=tokyonight&card_width=1000)](https://git.io/streak-stats)
 
 
 <h3>Current Overview</h3>
