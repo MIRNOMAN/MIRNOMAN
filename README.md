@@ -64,7 +64,7 @@
 
 # GitHub Profile Summary Cards
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=vue&card_width=1000)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue)    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue)
 
