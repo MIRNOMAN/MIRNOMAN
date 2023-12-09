@@ -1,5 +1,7 @@
 
-<img width="full" src="/Hey There!, I am Noman.png" alt="" />
+<div width="1000">
+ <img width="full" src="/Hey There!, I am Noman.png" alt="" />
+</div>
 
 <h3>Current stats</h3>
 <br>
