@@ -62,8 +62,10 @@
 
 <br/>
 
+# GitHub Profile Summary Cards
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=date_night)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue)
 
 
