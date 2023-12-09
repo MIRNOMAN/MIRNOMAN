@@ -1,6 +1,6 @@
 
 <div width="1000px" align='center'>
- <img width="full" align='center' src="/Hey There!, I am Noman.png" alt="" />
+ <img width="1000px" align='center' src="/Hey There!, I am Noman.png" alt="" />
 </div>
 
 <h3>Current stats</h3>
