@@ -57,7 +57,7 @@
 <p>
  <img align="right" width="150" src="./picture/programmer.gif" alt="" />
   
- <p>I'm Noman, I'm a 3nd year student pursuing B.Sc. in Computer Applications from Shaikh Burhanuddin Collage. I'm a passionate leamer who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my Data Structures and Algorithms sicills.</p>
+ <p>I'm Noman, a 3rd year student pursuing a B.Sc. in Computer Applications from Shaikh Burhanuddin Collage. I'm a passionate leader who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently in Web Development and working on my skills in Data Structures and Algorithms.</p>
 
 </p>
 
