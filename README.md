@@ -4,11 +4,13 @@
  <img width="1000px" align='center' src="/Hey There!, I am Noman.png" alt="" />
 </div>
 
-<h3>Current stats</h3>
+ <h3>Current stats</h3>
 <br>
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MIRNOMAN&theme=tokyonight&card_width=1000)](https://git.io/streak-stats)
+<img  src="https://github-readme-streak-stats-MIRNOMAN.vercel.app/?user=MIRNOMAN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
+</div>
 
 <h3>Current Overview</h3>
  
