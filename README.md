@@ -74,7 +74,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue)    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue)
 
- <img width=390 src="https://github-readme-stats-MIRNOMAN.vercel.app/api?username=MIRNOMAN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIRNOMAN&theme=vue)    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8)
 
 </div>
 
