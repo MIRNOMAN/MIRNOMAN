@@ -72,7 +72,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MIRNOMAN&theme=vue)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8)
 
+</div>
 
-
- 
+<div align="center">
+ <h2>My Contributions</h2>
+ <br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MIRNOMAN/MIRNOMAN/output/github-contribution-grid-snake.svg" />
+ <br/><br/><br/>
 </div>
