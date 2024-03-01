@@ -8,7 +8,9 @@
 <br>
 <div align="center">
 
-<img  src="https://github-readme-streak-stats-MIRNOMAN.vercel.app/?user=MIRNOMAN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN&theme=dark)](https://git.io/streak-stats)
+
 
 </div>
 
