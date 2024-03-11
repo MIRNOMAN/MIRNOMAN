@@ -6,11 +6,11 @@
 
  <h3>Current stats</h3>
 <br>
-<div align="center">
+<div align="center" width="1000px">
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN&theme=dark)](https://git.io/streak-stats)
+
 
 
 </div>
