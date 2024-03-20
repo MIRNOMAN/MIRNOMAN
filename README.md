@@ -6,7 +6,7 @@
 
  <h3>Current stats</h3>
 <br>
-<div align="center" width="1000px">
+<div align="center" >
 
 
 
