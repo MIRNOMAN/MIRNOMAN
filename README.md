@@ -54,7 +54,7 @@
 
 <div align="center">
  <a href="https://skillicons.dev>
-  <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,firebase,mongodb,c" >
+  <img src="prisma.svg" >
   </a>
 </div>
 
