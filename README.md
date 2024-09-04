@@ -30,10 +30,14 @@
 <h3>Reach me out</h3>
 
 <p align='center'>
-  <a href="https://twitter.com/mirnoman27139"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <div style="display: flex; align-items: center;">
+ <img src="Gmail-Dark.svg" alt="Gmail-Dark" width="50" height="50"/>
+  <img src="Twitter (1).svg" alt="Twitter (1)" width="50" height="50"/>
+   <img src="Twitter.svg" alt="Twitter" width="50" height="50"/>
+    <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
 
+  
+</div>
 </p>
 
 
