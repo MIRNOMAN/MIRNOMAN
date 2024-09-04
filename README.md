@@ -29,15 +29,15 @@
 
 <h3>Reach me out</h3>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="mailto:abdullahalnoman1509@gmail.com">
-    <img src="Gmail-Dark.svg" alt="Gmail-Dark" width="50" height="50 style="margin-right: 10px;"/>
+    <img src="Gmail-Dark.svg" alt="Gmail-Dark" width="50" height="50 "/>
   </a>
   <a href="https://www.linkedin.com/in/abdullah-al-noman-b154692a3" target="_blank">
-    <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50 style="margin-right: 10px;"/>
+    <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50 "/>
   </a>
   <a href="https://x.com/mirnoman27139" target="_blank">
-    <img src="Twitter.svg" alt="Twitter" width="50" height="50 style="margin-right: 10px;"/>
+    <img src="Twitter.svg" alt="Twitter" width="50" height="50 "/>
   </a>
 </div>
 
