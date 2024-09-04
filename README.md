@@ -29,15 +29,6 @@
 
 <h3>Reach me out</h3>
 
-<p align='center'>
- <div style="display: flex; align-items: center;">
- <img src="Gmail-Dark.svg" alt="Gmail-Dark" width="50" height="50"/>
-  <img src="Twitter (1).svg" alt="Twitter (1)" width="50" height="50"/>
-   <img src="Twitter.svg" alt="Twitter" width="50" height="50"/>
-    <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-</div>
-</p>
-
 <div style="display: flex; align-items: center;">
   <a href="mailto:abdullahalnoman1509@gmail.com">
     <img src="Gmail-Dark.svg" alt="Gmail-Dark" width="50" height="50 style="margin-right: 10px;"/>
