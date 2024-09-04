@@ -35,12 +35,20 @@
   <img src="Twitter (1).svg" alt="Twitter (1)" width="50" height="50"/>
    <img src="Twitter.svg" alt="Twitter" width="50" height="50"/>
     <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-
-  
 </div>
 </p>
 
-
+<div style="display: flex; align-items: center;">
+  <a href="mailto:abdullahalnoman1509@gmail.com">
+    <img src="Gmail-Dark.svg" alt="Gmail-Dark" width="50" height="50 style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-al-noman-b154692a3" target="_blank">
+    <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50 style="margin-right: 10px;"/>
+  </a>
+  <a href="https://x.com/mirnoman27139" target="_blank">
+    <img src="Twitter.svg" alt="Twitter" width="50" height="50 style="margin-right: 10px;"/>
+  </a>
+</div>
 
 <h3>Technologies that I khow</h3>
 
