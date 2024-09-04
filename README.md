@@ -53,6 +53,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <img src="Github-Dark.svg" alt="Github-Dark" width="50" height="50"/>
+<img src="CSS.svg" alt="CSS" width="50" height="50"/>
+<img src="Discord.svg" alt="Discord" width="50" height="50"/>
+<img src="ExpressJS-Dark.svg" alt="ExpressJS-Dark" width="50" height="50"/>
+<img src="Figma-Dark.svg" alt="Figma-Dark" width="50" height="50"/>
+<img src="Firebase-Dark.svg" alt="Firebase-Dark" width="50" height="50"/>
+<img src="MaterialUI-Dark.svg" alt="MaterialUI-Dark" width="50" height="50"/>
+<img src="MongoDB.svg" alt="MongoDB" width="50" height="50"/>
+<img src="MySQL-Dark.svg" alt="MySQL-Dark" width="50" height="50"/>
+<img src="NextJS-Dark.svg" alt="NextJS-Dark" width="50" height="50"/>
+<img src="NodeJS-Dark.svg" alt="NodeJS-Dark" width="50" height="50"/>
+<img src="PostgreSQL-Dark.svg" alt="PostgreSQL-Dark" width="50" height="50"/>
+<img src="Prisma.svg" alt="Prisma" width="50" height="50"/>
+<img src="React-Dark.svg" alt="React-Dark" width="50" height="50"/>
+<img src="Redux.svg" alt="Redux" width="50" height="50"/>
+<img src="TailwindCSS-Dark.svg" alt="TailwindCSS-Dark" width="50" height="50"/>
+<img src="TypeScript.svg" alt="TypeScript" width="50" height="50"/>
+<img src="Vercel-Dark.svg" alt="Vercel-Dark" width="50" height="50"/>
 
 
 
