@@ -11,7 +11,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=sea-dark)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MIRNOMAN&theme=blueberry&card_width=1000" alt="GitHub Streak" /></a>
 
 </div>
