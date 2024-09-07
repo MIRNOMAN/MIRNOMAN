@@ -11,6 +11,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&&theme=blueberry&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 </div>
