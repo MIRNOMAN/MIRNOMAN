@@ -11,6 +11,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=blueberry&card_width=900)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=sea-dark&card_width=900)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIRNOMAN)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
