@@ -9,8 +9,8 @@
 <div align="center" >
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=windows-dark&card_width=700)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIRNOMAN)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=windows-dark&card_width=600)](https://git.io/streak-stats)
+
 
 
 
