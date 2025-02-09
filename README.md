@@ -89,6 +89,8 @@ Let's **connect and innovate** together! 🚀
   </a>
 </div>
 
+---
+
 ### 🐍 My Contributions 🐍
 <div align="center">
   <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/MIRNOMAN/MIRNOMAN/output/github-contribution-grid-snake.svg">
