@@ -41,12 +41,10 @@ Let's **connect and innovate** together! 🚀
 
 </div>
 
-### <img src="https://cdn-icons-png.flaticon.com/128/3898/3898089.png" width="20px"> Language and Productivity Stats
+### 🛠️ Language & Productivity Stats
 
-<div align="center">
 | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8) |
 |:--:|:--:|:--:|
-</div>
 
 
 
