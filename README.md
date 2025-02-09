@@ -34,6 +34,28 @@ I'm a passionate **leader and developer**, eager to **explore new technologies**
 
 </div>
 
+<div align="center">
+
+### GitHub Profile Summary
+
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=vue&card_width=1000) |
+|:--:|
+| **GitHub Stats** |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIRNOMAN)](https://github.com/anuraghazra/github-readme-stats) |
+
+### Language and Productivity Stats
+
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue) |
+|:--:|:--:|
+| **Repos per Language** | **Most Used Languages** |
+
+| ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8) |
+|:--:|
+| **Productive Coding Time** |
+
+</div>
+
+
 ---
 
 ## 🛠️ Technologies & Tools  
