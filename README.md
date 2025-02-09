@@ -31,19 +31,23 @@ Let's **connect and innovate** together! 🚀
 
 </div>
 
-<div align="center">
 
-### GitHub Profile Summary
+### 🏆 GitHub Profile Summary
+
+<div align="center">
 
 | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=vue&card_width=500) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIRNOMAN)](https://github.com/anuraghazra/github-readme-stats) |
 |:--:|:--:|
 
-### Language and Productivity Stats
+</div>
 
+### <img src="https://cdn-icons-png.flaticon.com/128/3898/3898089.png" width="20px"> Language and Productivity Stats
+
+<div align="center">
 | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8) |
 |:--:|:--:|:--:|
-
 </div>
+
 
 
 ---
