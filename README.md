@@ -8,17 +8,18 @@
 
 <img align="right" width="150" src="./picture/programmer.gif" alt="Programming GIF" />
 
-I'm **Abdullah Al Noman**, a **3rd-year Computer Applications student** at **Shaikh Burhanuddin College** with a deep passion for technology, problem-solving, and innovation.  
+### **About Me**  
+Hi, I’m Abdullah Al Noman, a 3rd-year **Computer Science and Engineering (CSE)** student at **Shaikh Burhanuddin College**. I’m deeply passionate about **technology, problem-solving, and innovation**.
 
-As a **developer and leader**, I thrive on **exploring new technologies** and **building impactful projects** that solve real-world challenges.  
+As a developer, I enjoy tackling complex challenges and building innovative solutions that make a difference. Whether it's creating seamless web applications or diving into backend development, I'm always eager to learn and grow.
 
-### 🔥 What I’m Up To:
-- 🚀 Exploring **Web Development** with a focus on **modern frameworks**  
-- 🌱 Learning **Backend Development with Next.js** to build scalable applications  
-- 🤝 Open to **collaborating on open-source projects** and **mentoring beginners**  
-- 💡 Passionate about **continuous learning** and **knowledge sharing**  
+### **What I’m Focused On**  
+🌐 **Web Development Enthusiast** with a focus on cutting-edge frameworks  
+🖥️ **Exploring Backend Development** with Next.js to build robust, scalable applications  
+👨‍💻 **Mentoring and Collaborating** on open-source projects and helping others grow  
+📚 **Lifelong Learner** always seeking new knowledge to expand my skillset
 
-Let's **connect and innovate** together! 🚀  
+I'm always excited to connect with like-minded individuals and work on impactful projects. Let’s innovate together! 🚀  
 
 
 ---
