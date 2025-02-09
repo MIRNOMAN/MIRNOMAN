@@ -54,25 +54,26 @@ I'm always excited to connect with like-minded individuals and work on impactful
 ## 🛠️ Technologies & Tools  
 
 <div align="center">
-  <img src="MaterialUI-Dark.svg" alt="Material UI" width="50" height="50"/>
-  <img src="MongoDB.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="MySQL-Dark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="NextJS-Dark.svg" alt="Next.js" width="50" height="50"/>
-  <img src="NodeJS-Dark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="Prisma.svg" alt="Prisma" width="50" height="50"/>
-  <img src="React-Dark.svg" alt="React" width="50" height="50"/>
-  <img src="Redux.svg" alt="Redux" width="50" height="50"/>
-  <img src="TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="TypeScript.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="Vercel-Dark.svg" alt="Vercel" width="50" height="50"/>
-  <img src="Github-Dark.svg" alt="GitHub" width="50" height="50"/>
-  <img src="CSS.svg" alt="CSS" width="50" height="50"/>
-  <img src="Discord.svg" alt="Discord" width="50" height="50"/>
-  <img src="ExpressJS-Dark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="Figma-Dark.svg" alt="Figma" width="50" height="50"/>
-  <img src="Firebase-Dark.svg" alt="Firebase" width="50" height="50"/>
+  <img src="MaterialUI-Dark.svg" alt="Material UI" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="MongoDB.svg" alt="MongoDB" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="MySQL-Dark.svg" alt="MySQL" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="NextJS-Dark.svg" alt="Next.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="NodeJS-Dark.svg" alt="Node.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Prisma.svg" alt="Prisma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="React-Dark.svg" alt="React" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Redux.svg" alt="Redux" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="TypeScript.svg" alt="TypeScript" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Vercel-Dark.svg" alt="Vercel" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Github-Dark.svg" alt="GitHub" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="CSS.svg" alt="CSS" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Discord.svg" alt="Discord" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="ExpressJS-Dark.svg" alt="Express.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Figma-Dark.svg" alt="Figma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Firebase-Dark.svg" alt="Firebase" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
 </div>
+
 
 ---
 
