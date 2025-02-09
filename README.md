@@ -8,13 +8,18 @@
 
 <img align="right" width="150" src="./picture/programmer.gif" alt="Programming GIF" />
 
-I'm **Abdullah Al Noman**, a 3rd-year student pursuing a **B.Sc. in Computer Applications** at **Shaikh Burhanuddin College**.  
-I'm a passionate **leader and developer**, eager to **explore new technologies** and solve real-world problems.  
+I'm **Abdullah Al Noman**, a **3rd-year Computer Applications student** at **Shaikh Burhanuddin College** with a deep passion for technology, problem-solving, and innovation.  
 
-- 🔭 Currently diving into **Web Development**  
-- 🌱 Learning **Backend Development with Next.js**  
-- 🤝 Actively seeking **open-source collaborators**  
-- 💡 Passionate about **mentoring and guiding beginners**  
+As a **developer and leader**, I thrive on **exploring new technologies** and **building impactful projects** that solve real-world challenges.  
+
+### 🔥 What I’m Up To:
+- 🚀 Exploring **Web Development** with a focus on **modern frameworks**  
+- 🌱 Learning **Backend Development with Next.js** to build scalable applications  
+- 🤝 Open to **collaborating on open-source projects** and **mentoring beginners**  
+- 💡 Passionate about **continuous learning** and **knowledge sharing**  
+
+Let's **connect and innovate** together! 🚀  
+
 
 ---
 
@@ -23,14 +28,6 @@ I'm a passionate **leader and developer**, eager to **explore new technologies**
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=windows-dark&card_width=700)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=vue&card_width=1000)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIRNOMAN)](https://github.com/anuraghazra/github-readme-stats)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8)
 
 </div>
 
