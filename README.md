@@ -28,7 +28,7 @@ I'm always excited to connect with like-minded individuals and work on impactful
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=windows-dark&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=windows-dark&card_width=800)](https://git.io/streak-stats)
 
 </div>
 
