@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MIRNOMAN.MIRNOMAN" />
 
 <div align="center">
-  <img width="1000px" src="/Hey There!, I am Noman.png" alt="Hey There! I am Noman" />
+  <img width="900px" src="/Hey There!, I am Noman.png" alt="Hey There! I am Noman" />
 </div>
 
 ## 🚀 About Me  
