@@ -9,7 +9,7 @@
 <img align="right" width="150" src="./picture/programmer.gif" alt="Programming GIF" />
 
 ### **About Me**  
-Hi, I’m Abdullah Al Noman, a 3rd-year **Computer Science and Engineering (CSE)** student at **Shaikh Burhanuddin College**. I’m deeply passionate about **technology, problem-solving, and innovation**.
+Hi, I’m Abdullah Al Noman, a **Computer Science and Engineering (CSE)** graduate from Shaikh Burhanuddin College. I am deeply passionate about technology, **problem-solving**, and innovation, and I enjoy building efficient and scalable solutions that transform ideas into **real-world applications**.
 
 As a developer, I enjoy tackling complex challenges and building innovative solutions that make a difference. Whether it's creating seamless web applications or diving into backend development, I'm always eager to learn and grow.
 
