@@ -1,222 +1,101 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MIRNOMAN.MIRNOMAN" alt="Profile views" />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MIRNOMAN.MIRNOMAN" />
 
 <div align="center">
-  <img
-    width="100%"
-    src="/Hey There!, I am Noman.png"
-    alt="Abdullah Al Noman — Frontend and React Native Engineer"
-  />
-
-  <h1>Abdullah Al Noman</h1>
-
-  <h3>Frontend & React Native Engineer | Team Lead</h3>
-
-  <p>
-    Building scalable, accessible and user-focused web and mobile applications
-    with React, Next.js, TypeScript and React Native.
-  </p>
-
-  <p>
-    <a href="https://www.mirnoman.com/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:abdullahalnoman1509@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/abdullah-al-noman-b154692a3">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <img width="1000px" src="/Hey There!, I am Noman.png" alt="Hey There! I am Noman" />
 </div>
 
----
+## 🚀 About Me  
 
-## About Me
+<img align="right" width="150" src="./picture/programmer.gif" alt="Programming GIF" />
 
-I am a **Frontend and React Native Engineer** with experience building responsive web applications, cross-platform mobile applications and reusable user-interface systems.
+### **About Me**  
+Hi, I’m Abdullah Al Noman, a **Computer Science and Engineering (CSE)** graduate from Shaikh Burhanuddin College. I am deeply passionate about technology, **problem-solving**, and innovation, and I enjoy building efficient and scalable solutions that transform ideas into **real-world applications**.
 
-Currently, I work as a **Team Lead at SMTechnology**, where I contribute to frontend architecture, task planning, code reviews, developer collaboration and product delivery.
+As a developer, I enjoy tackling complex challenges and building innovative solutions that make a difference. Whether it's creating seamless web applications or diving into backend development, I'm always eager to learn and grow.
 
-My primary focus is creating applications that are:
+### **What I’m Focused On**  
+🌐 **Web Development Enthusiast** with a focus on cutting-edge frameworks  
+🖥️ **Exploring Backend Development** with Next.js to build robust, scalable applications  
+👨‍💻 **Mentoring and Collaborating** on open-source projects and helping others grow  
+📚 **Lifelong Learner** always seeking new knowledge to expand my skillset
 
-* Scalable and maintainable
-* Responsive across different devices
-* Accessible and user-friendly
-* Built with clean, reusable components
-* Optimised for performance and long-term development
+I'm always excited to connect with like-minded individuals and work on impactful projects. Let’s innovate together! 🚀  
 
-I enjoy solving complex frontend problems, improving development workflows and transforming product requirements into reliable real-world applications.
-
----
-
-## Professional Focus
-
-* Developing production-ready applications with **React, Next.js and TypeScript**
-* Building cross-platform mobile applications with **React Native and Expo**
-* Designing reusable components and scalable frontend architecture
-* Managing application state and server-side data efficiently
-* Collaborating with designers, backend engineers and stakeholders
-* Reviewing code and mentoring developers
-* Exploring backend development and full-stack application architecture
 
 ---
 
-## Technical Skills
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,redux" alt="Frontend technologies" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-</p>
-
-* React Native
-* Expo
-* Cross-platform mobile development
-* Responsive mobile interfaces
-* API integration
-* Mobile application state management
-
-### Backend and Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase" alt="Backend and database technologies" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" alt="Development tools" />
-</p>
-
----
-
-## Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Personal Portfolio</h3>
-      <p>
-        A responsive portfolio showcasing my professional experience,
-        technical skills and selected projects.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, Next.js, TypeScript and Tailwind CSS
-      </p>
-      <p>
-        <a href="https://www.mirnoman.com/">Live Website</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Quickwash</h3>
-      <p>
-        A car-wash booking platform where users can explore services,
-        select available time slots and manage bookings.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, TypeScript, Redux and REST APIs
-      </p>
-      <p>
-        <a href="https://car-washing-system-client-kappa.vercel.app/">Live Demo</a>
-        ·
-        <a href="https://github.com/MIRNOMAN/Car-washing-system-client">Source Code</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-> More production, team and React Native projects are available on my
-> [portfolio website](https://www.mirnoman.com/).
-
----
-
-## Engineering Principles
-
-```text
-Readable code over clever code
-Reusable components over repeated implementation
-Measured optimisation over premature optimisation
-Clear communication over hidden assumptions
-Consistent delivery over unnecessary complexity
-```
-
----
-
-## GitHub Overview
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img
-    width="70%"
-    src="https://github-readme-stats.vercel.app/api?username=MIRNOMAN&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Abdullah Al Noman's GitHub statistics"
-  />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MIRNOMAN&theme=windows-dark&card_width=900)](https://git.io/streak-stats)
+
 </div>
 
-<br />
+
+### 🏆 GitHub Profile Summary
 
 <div align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MIRNOMAN&hide_border=true"
-    alt="Abdullah Al Noman's GitHub contribution streak"
-  />
+
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MIRNOMAN&theme=vue&card_width=500) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIRNOMAN)](https://github.com/anuraghazra/github-readme-stats) |
+|:--:|:--:|
+
 </div>
 
----
+### 🛠️ Language & Productivity Stats
 
-## Education
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MIRNOMAN&theme=vue) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MIRNOMAN&theme=vue) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MIRNOMAN&theme=vue&utcOffset=8) |
+|:--:|:--:|:--:|
 
-**Bachelor of Science in Computer Science and Engineering**
 
-Shaikh Burhanuddin Post Graduate College
-
----
-
-## Currently Improving
-
-* Advanced frontend architecture
-* React and Next.js performance optimisation
-* React Native application architecture
-* Automated testing
-* Accessibility
-* Backend development with Node.js and Next.js
-* System design fundamentals
-* Technical leadership and mentoring
 
 ---
 
-## Connect With Me
+## 🛠️ Technologies & Tools  
+
+<div align="center">
+  <img src="MaterialUI-Dark.svg" alt="Material UI" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="MongoDB.svg" alt="MongoDB" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="MySQL-Dark.svg" alt="MySQL" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="NextJS-Dark.svg" alt="Next.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="NodeJS-Dark.svg" alt="Node.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Prisma.svg" alt="Prisma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="React-Dark.svg" alt="React" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Redux.svg" alt="Redux" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="TypeScript.svg" alt="TypeScript" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Vercel-Dark.svg" alt="Vercel" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Github-Dark.svg" alt="GitHub" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="CSS.svg" alt="CSS" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Discord.svg" alt="Discord" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="ExpressJS-Dark.svg" alt="Express.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Figma-Dark.svg" alt="Figma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Firebase-Dark.svg" alt="Firebase" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+</div>
+
+
+---
+
+## 📬 Contact Me  
 
 <div align="center">
   <a href="mailto:abdullahalnoman1509@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+    <img src="Gmail-Dark.svg" alt="Gmail" width="50" height="50"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-al-noman-b154692a3">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abdullah-al-noman-b154692a3" target="_blank">
+    <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  &nbsp;
-  <a href="https://x.com/mirnoman27139">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://www.mirnoman.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio" />
+  <a href="https://x.com/mirnoman27139" target="_blank">
+    <img src="Twitter.svg" alt="Twitter" width="50" height="50"/>
   </a>
 </div>
 
-<br />
+---
 
+### 🐍 My Contributions 🐍
 <div align="center">
-  <strong>Open to frontend, React Native and product engineering opportunities.</strong>
-  <br />
-  <sub>Dhaka, Bangladesh · Available for remote and collaborative opportunities</sub>
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/MIRNOMAN/MIRNOMAN/output/github-contribution-grid-snake.svg">
+  <br><br>
 </div>
+
