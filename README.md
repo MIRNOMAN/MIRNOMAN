@@ -27,9 +27,9 @@ I'm always excited to connect with like-minded individuals and work on impactful
 | --- | --- | --- |
 | **ZEVON** | E-commerce, Next.js | [web.mirnoman.com](https://web.mirnoman.com) |
 | **ShebaMitro** | Healthcare web app | [shebamitro.web.mirnoman.com](https://shebamitro.web.mirnoman.com) |
-| **SwiftDrop** | Parcel delivery app, React Native | Play Store |
-| **Patro Patri** | Matrimony app, React Native | Play Store |
-| **Creston** | Industrial operations app, React Native | App Store |
+| **SwiftDrop** | Parcel delivery app, React Native | [Play Store](https://play.google.com/store/apps/details?id=swiftdrop.rob.app) |
+| **Patro Patri** | Matrimony app, React Native | [Play Store](https://play.google.com/store/apps/details?id=com.patropatri.mobile) |
+| **Creston** | Industrial operations app, React Native | [App Store](https://apps.apple.com/us/app/creston-site-services/id6768522100) |
 | **Micro Yellow TV** | Streaming | [microyellowtv.com](https://microyellowtv.com) |
 
 ---
