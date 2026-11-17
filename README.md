@@ -15,12 +15,22 @@ As a developer, I enjoy tackling complex challenges and building innovative solu
 
 ### **What I’m Focused On**  
 🌐 **Web Development Enthusiast** with a focus on cutting-edge frameworks  
-🖥️ **Exploring Backend Development** with Next.js to build robust, scalable applications  
+Executive, Front End at SM Technology with 2.5+ years of experience. Full Stack & React Native Developer — React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL. I build apps people actually use — 3 live mobile apps on Play Store / App Store. Portfolio: https://www.mirnoman.com  
 👨‍💻 **Mentoring and Collaborating** on open-source projects and helping others grow  
 📚 **Lifelong Learner** always seeking new knowledge to expand my skillset
 
 I'm always excited to connect with like-minded individuals and work on impactful projects. Let’s innovate together! 🚀  
 
+## Featured — Live Apps
+
+| App | Description | Link |
+| --- | --- | --- |
+| **ZEVON** | E-commerce, Next.js | [web.mirnoman.com](https://web.mirnoman.com) |
+| **ShebaMitro** | Healthcare web app | [shebamitro.web.mirnoman.com](https://shebamitro.web.mirnoman.com) |
+| **SwiftDrop** | Parcel delivery app, React Native | Play Store |
+| **Patro Patri** | Matrimony app, React Native | Play Store |
+| **Creston** | Industrial operations app, React Native | App Store |
+| **Micro Yellow TV** | Streaming | [microyellowtv.com](https://microyellowtv.com) |
 
 ---
 
@@ -70,7 +80,7 @@ I'm always excited to connect with like-minded individuals and work on impactful
   <img src="CSS.svg" alt="CSS" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="Discord.svg" alt="Discord" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="ExpressJS-Dark.svg" alt="Express.js" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
-  <img src="Figma-Dark.svg" alt="Figma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="Figma.svg" alt="Figma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="Firebase-Dark.svg" alt="Firebase" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
 </div>
 
@@ -83,7 +93,7 @@ I'm always excited to connect with like-minded individuals and work on impactful
   <a href="mailto:abdullahalnoman1509@gmail.com">
     <img src="Gmail-Dark.svg" alt="Gmail" width="50" height="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdullah-al-noman-b154692a3" target="_blank">
+  <a href="https://www.linkedin.com/in/mir-abdullah-al-noman-23868b3bb/" target="_blank">
     <img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://x.com/mirnoman27139" target="_blank">
@@ -98,4 +108,3 @@ I'm always excited to connect with like-minded individuals and work on impactful
   <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/MIRNOMAN/MIRNOMAN/output/github-contribution-grid-snake.svg">
   <br><br>
 </div>
-
