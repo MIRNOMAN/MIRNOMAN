@@ -14,10 +14,12 @@ Hi, I’m Abdullah Al Noman, a **Computer Science and Engineering (CSE)** gradua
 As a developer, I enjoy tackling complex challenges and building innovative solutions that make a difference. Whether it's creating seamless web applications or diving into backend development, I'm always eager to learn and grow.
 
 ### **What I’m Focused On**  
-🌐 **Web Development Enthusiast** with a focus on cutting-edge frameworks  
-Executive, Front End at SM Technology with 2.5+ years of experience. Full Stack & React Native Developer — React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL. I build apps people actually use — 3 live mobile apps on Play Store / App Store. Portfolio: https://www.mirnoman.com  
-👨‍💻 **Mentoring and Collaborating** on open-source projects and helping others grow  
-📚 **Lifelong Learner** always seeking new knowledge to expand my skillset
+🌐 Full Stack & React Native Developer — React, Next.js, TypeScript, Expo  
+💼 Executive, Front End at SM Technology with 2.5+ years of experience  
+🚀 I build apps people actually use — 3 live mobile apps on Play Store / App Store  
+🎯 Open to Full Stack Developer & React Native Developer roles — Dhaka, On-site  
+👨‍💻 Mentoring and Collaborating on open-source projects and helping others grow  
+📚 Lifelong Learner always seeking new knowledge to expand my skillset
 
 I'm always excited to connect with like-minded individuals and work on impactful projects. Let’s innovate together! 🚀  
 
@@ -72,6 +74,8 @@ I'm always excited to connect with like-minded individuals and work on impactful
   <img src="PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="Prisma.svg" alt="Prisma" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="React-Dark.svg" alt="React" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" class="transition-transform duration-300 transform hover:scale-110"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="Redux.svg" alt="Redux" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="TailwindCSS-Dark.svg" alt="Tailwind CSS" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
   <img src="TypeScript.svg" alt="TypeScript" width="50" height="50" class="transition-transform duration-300 transform hover:scale-110"/>
@@ -89,6 +93,8 @@ I'm always excited to connect with like-minded individuals and work on impactful
 
 ## 📬 Contact Me  
 
+<p align="center"><strong>Open to Work: Full Stack Developer & React Native Developer — Dhaka, On-site</strong></p>
+
 <div align="center">
   <a href="mailto:abdullahalnoman1509@gmail.com">
     <img src="Gmail-Dark.svg" alt="Gmail" width="50" height="50"/>
@@ -98,6 +104,9 @@ I'm always excited to connect with like-minded individuals and work on impactful
   </a>
   <a href="https://x.com/mirnoman27139" target="_blank">
     <img src="Twitter.svg" alt="Twitter" width="50" height="50"/>
+  </a>
+  <a href="https://leetcode.com/u/orI2mC2tBq/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
 
